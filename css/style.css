@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    }
+/* nav section */
+.topnav {
+    overflow: hidden;
+    background-color: #F7ECA6;
+}
+nav {
+    color: white;
+    font-family: "arbotek", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 150px;
+    margin: 40px;
+    background-color: #F7ECA6;
+}
+nav a {
+    font-size: 40px;
+    text-decoration: none;
+    background-color: #F7ECA6;
+}
+/* body section */
+body {
+    background-color: #F5C4E5;
+}
+.blossom {
+    float: right;
+    margin-right: 300px;
+    margin-bottom: 30px;
+}
+h1,h2 {
+    margin-left: 100px;
+    font-family: "arbotek", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 100px;
+    color: white;
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+
+.image {
+    margin-top: 10px;
+    margin-left: 50px;
+    position: absolute;
+}
+.back {
+    background-image: url("img/photo-bg_.png");
+    margin-left: 10px;
+}
+
+.bio {
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    margin-right: 100px;
+    margin-top: 10px;
+    color: #3F2A52;
+}
+/* footer */
+.social-links {
+    font-family: "arbotek", sans-serif;
+    word-spacing: 200px;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F7ECA6;
+}
+.social-links a {
+    text-decoration: none;
+    background-color: #F7ECA6;
+}
+
+/* footer */
+footer {
+    overflow: hidden;
+    background-color: #F7ECA6;
+}
+
+footer a {
+    background-color: #F7ECA6;
+    color: #54366E;
+}
+/* https://codedamn.com/news/frontend/how-to-put-image-and-text-side-by-side-in-html */

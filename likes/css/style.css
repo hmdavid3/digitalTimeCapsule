@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    }
+/* nav section */
+.topnav {
+    overflow: hidden;
+    background-color: #F7ECA6;
+}
+nav {
+    color: white;
+    font-family: "arbotek", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 150px;
+    margin: 40px;
+    background-color: #F7ECA6;
+}
+nav a {
+    font-size: 40px;
+    text-decoration: none;
+    background-color: #F7ECA6;
+}
+
+/* body */
+body {
+    background-color: #B3EBFC;
+}
+h1 {
+    color: #ED37C3;
+    font-family: "arbotek", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 60px;
+}
+
+.music {
+    position: absolute;
+    display: block;
+    margin: 30px auto;
+    left: 0;
+    right: 0;
+}
+.stars {
+    background-image: url("img/twinkle.gif");
+    display: block;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+h2 {
+    color: #ED37C3;
+    font-family: "arbotek", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.description {
+    text-align: center;
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    color: #3F2A52;
+}
+.powerpuff {
+    background-image: url("img/music.gif");
+    display: block;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+.title {
+    font-family: "arbotek", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+.spotify {
+    margin-left: 250px;
+}
+.nwjns-player {
+    margin-bottom: 50px;
+}
+/* social-links */
+.social-links {
+    font-family: "arbotek", sans-serif;
+    word-spacing: 200px;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F7ECA6;
+}
+.social-links a {
+    text-decoration: none;
+    background-color: #F7ECA6;
+}
+
+/* footer */
+footer {
+    overflow: hidden;
+    background-color: #F7ECA6;
+}
+footer a {
+    color: #54366E;
+    background-color: #F7ECA6; 
+}
