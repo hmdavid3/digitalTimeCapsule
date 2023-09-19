@@ -37,6 +37,13 @@ h1 {
     text-align: center;
     margin: 60px;
 }
+.powerpuff {
+    background-image: url("img/phone-activity.gif");
+    display: block;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
 h2 {
     color: #FFD1F7;
     font-family: "arbotek", sans-serif;
