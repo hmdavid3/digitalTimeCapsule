@@ -26,7 +26,6 @@ nav a {
 /* body */
 body {
     background-color: #B3EBFC;
-    display: flexbox;
 }
 h1 {
     color: #ED37C3;
@@ -81,9 +80,10 @@ h2 {
     left: 0;
     right: 0;
 }
-
-.playlist {
-    font-family: "arbotek", sans-serif;
+.title {
+    
+}
+.playlist {font-family: "arbotek", sans-serif;
     font-weight: 900;
     font-style: normal;
     text-transform: uppercase;
