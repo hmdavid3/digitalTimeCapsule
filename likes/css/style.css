@@ -26,6 +26,7 @@ nav a {
 /* body */
 body {
     background-color: #B3EBFC;
+    display: flexbox;
 }
 h1 {
     color: #ED37C3;
@@ -57,7 +58,7 @@ h2 {
     font-family: "arbotek", sans-serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 80px;
+    font-size: 150px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -76,21 +77,26 @@ h2 {
 .powerpuff {
     background-image: url("img/music.gif");
     display: block;
-    margin: 0 auto;
+    margin-left: 5%;
     left: 0;
     right: 0;
 }
-.title {
+
+.playlist {
     font-family: "arbotek", sans-serif;
     font-weight: 900;
     font-style: normal;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
+    margin-left: 5%;
+    font-size: 80px;
+    text-align: left;
+    margin-left: 5%;
 }
 .spotify {
-    margin-left: 250px;
+    margin-left: 5%;
 }
-.nwjns-player {
+.blond-player {
     margin-bottom: 50px;
 }
 /* social-links */
