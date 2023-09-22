@@ -18,7 +18,7 @@ nav {
 }
 nav a {
     color: #54366E;
-    font-size: 80px;
+    font-size: 70px;
     text-decoration: none;
     background-color: #F7ECA6;
 }
@@ -41,7 +41,7 @@ h1 {
     font-family: "arbotek", sans-serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 200px;
+    font-size: 100px;
     text-transform: uppercase;
     text-align: left;
     margin: 60px;

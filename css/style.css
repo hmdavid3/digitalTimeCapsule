@@ -1,7 +1,5 @@
 * {
     margin: 0;
-    cursor: url('purpleheart.png'), pointer !important;
-    /* cursor: url(cursors/purpleheart.png), auto !important; */
     }
 
 /* nav section */
@@ -21,7 +19,7 @@ nav {
 }
 nav a {
     color: #54366E;
-    font-size: 80px;
+    font-size: 70px;
     text-decoration: none;
     background-color: #F7ECA6;
 }
@@ -45,7 +43,7 @@ h1,h2 {
     font-family: "arbotek", sans-serif;
     font-weight: 900;
     font-style: normal;
-    font-size: 125px;
+    font-size: 100px;
     color: white;
 }
 
