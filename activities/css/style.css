@@ -98,6 +98,7 @@ h2 {
 }
 
 .container {
+    /* align-items: center; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 5px;
@@ -117,9 +118,6 @@ h2 {
     text-align: left;
     margin-left: 50px;
 }
-.analuisa-context {
-    align-items: center;
-}
 .analuisa {
     align-items: center;
     width: 300px;
@@ -131,10 +129,22 @@ h2 {
     text-align: left;
     margin-left: 50px;
 }
+
+.seree-context {
+    align-items: center;
+}
 .seree {
     justify-self: center;
     width: 300px;
     height: 600px;
+    margin-left: 90px;
+}
+
+.seree-explanation {
+    margin-top: 20px;
+    margin-right: 50px;
+    text-align: left;
+    margin-left: 50px;
 }
 
 /* social-links */
