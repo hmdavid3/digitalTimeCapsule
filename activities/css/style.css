@@ -70,7 +70,6 @@ p {
     font-family: "gill-sans-nova", sans-serif;
     font-weight: 500;
     font-style: normal;
-    font-size: 30px;
     color: #3F2A52;
 }
 
@@ -104,19 +103,33 @@ h2 {
     column-gap: 5px;
     margin-bottom: 50px;
 }
-.golf-explanation {
-    text-align: left;
+.golf-context {
+    align-items: center;
 }
 .lefleur {
-    justify-self: center;
+    align-items: center;
     width: 300px;
     height: 600px;
     margin-left: 100px;
 }
+.golf-explanation {
+    margin-top: 20px;
+    text-align: left;
+    margin-left: 50px;
+}
+.analuisa-context {
+    align-items: center;
+}
 .analuisa {
-    justify-self: center;
+    align-items: center;
     width: 300px;
     height: 600px;
+    margin-left: 100px;
+}
+.analuisa-explanation {
+    margin-top: 20px;
+    text-align: left;
+    margin-left: 50px;
 }
 .seree {
     justify-self: center;
