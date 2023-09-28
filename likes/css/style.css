@@ -36,6 +36,16 @@ nav a:hover {
 body {
     background-color: #B3EBFC;
 }
+.top-notes {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+
+.bar {
+    width: 700px;
+}
 h1 {
     color: #ED37C3;
     font-family: "arbotek", sans-serif;
@@ -46,6 +56,7 @@ h1 {
     text-align: left;
     margin: 60px;
 }
+
 .container {
     display: grid;
     align-items: center;
