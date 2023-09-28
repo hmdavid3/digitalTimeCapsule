@@ -72,7 +72,7 @@ h1 {
     height: 400px;
 }
 
-.description {
+.description p {
     text-align: center;
     font-family: "gill-sans-nova", sans-serif;
     font-weight: 500;
@@ -102,12 +102,64 @@ h2 {
     font-size: 80px;
     text-align: left;
 }
-.spotify {
-    margin-left: 5%;
+
+.laufey {
+    letter-spacing: 10px;
 }
-.blond-player {
+
+.laufey-context {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+
+.laufey-explanation {
+    text-align: left;
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    margin: 10px 30px 10px 10px;
+    color: #3F2A52;
+}
+.parents-context {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+
+.parents-explanation {
+    text-align: left;
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    margin: 10px 30px 10px 10px;
+    color: #3F2A52;
+}
+
+.frank-context {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+.frank-explanation {
+    text-align: left;
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    margin: 10px 30px 10px 10px;
+    color: #3F2A52;
+}
+.spotify {
+    margin-left: 50px;
     margin-bottom: 50px;
 }
+
 /* social-links */
 .social-links {
     font-family: "arbotek", sans-serif;
